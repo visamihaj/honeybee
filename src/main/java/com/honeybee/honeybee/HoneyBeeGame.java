@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class HungryBearGame extends Application {
+public class HoneyBeeGame extends Application {
 
     private Bear bear;
     private final List<Honey> honeys = new ArrayList<>();
